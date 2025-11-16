@@ -1,0 +1,55 @@
+body {
+	background: #333;
+	color: #fdfd96;
+	margin: 0;
+}
+
+header {
+	margin-top: 10px;
+	width: 100vw;
+	display: flex;
+	align-items: center;
+}
+
+section#P-Sprite img {
+	height: 128px;
+	image-rendering: pixelated;
+}
+
+section#Save-Data {
+	margin-left: 30px;
+}
+
+section#Save-Data div#Skills {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 20px;
+}
+
+section#Save-Data span.skill {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	align-items: center;
+}
+
+section#Save-Data span.skill img {
+	height: 64px;
+}
+
+section#Save-Data span.skill #Text {
+	margin-left: 10px;
+}
+
+section#Save-Data span.skill #Text p {
+	margin: 0;
+	text-align: center;
+}
+section#Save-Data span.skill#Gold #Text p {
+	text-align: left;
+}
+
+section#Save-Data span.skill #XP-Bar {
+	height: 5px;
+	background: #ffd1dc;
+	grid-column: 1 / -1;
+}

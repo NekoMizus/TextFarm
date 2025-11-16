@@ -1,0 +1,6 @@
+combat icon -> https://www.iconfinder.com/icons/9026091/sword_icon
+hp icon -> https://www.iconfinder.com/icons/211755/heart_icon
+farming icon -> https://www.iconfinder.com/icons/8541549/carrot_vegetable_icon
+mining icon -> https://www.iconfinder.com/icons/3553096/building_construction_pickaxe_icon
+woodcutting icon -> https://www.iconfinder.com/icons/10438293/axe_tool_construction_weapon_icon
+money icon -> https://www.iconfinder.com/icons/134157/money_cashier_dollar_currency_icon
